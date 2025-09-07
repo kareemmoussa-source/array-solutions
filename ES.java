@@ -1,13 +1,4 @@
-/*
-   Foundations of Computer Science
-   Programming Test - 1 February 2023
-*/
-/**  
-   Implements an extended stack data structure 
-   
-   @typeparam T the parametric type of the stack items
-   @see S
-*/
+
 public class ES<T extends Comparable> extends S<T>
 {  
    /**
