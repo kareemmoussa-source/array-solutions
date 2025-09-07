@@ -1,7 +1,4 @@
-/*
-   Foundations of Computer Science
-   Programming Test - 1 February 2023
-*/
+
 /**  
    Defines the Stack abstract data type with Last In First Out (LIFO) data
    access mode. 
