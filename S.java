@@ -1,7 +1,4 @@
-/*
-   Foundations of Computer Science
-   Programming Test - 1 February 2023
-*/
+
 /**  
    Implements a stack data structure with Last In First Out data policy. 
    When a stack is first created, it contains no items. 
